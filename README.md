@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sujitha K C]</h1>
+<h1 align="center">Hi 👋, I'm Sujitha K C</h1>
 <h3 align="center">MCA Student | Aspiring Software Developer</h3>
 
 - 🌱 Currently learning: `Full-Stack Development`, `Flutter & Firebase`, `CI/CD`, `Kubernetes` and `Java`
