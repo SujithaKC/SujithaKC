@@ -33,6 +33,6 @@
 
 ## 📢 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/sujitha-k-c-0251811b9))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sujitha-k-c-0251811b9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:sujithakanagarathinam@gmail.com)
 
