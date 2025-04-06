@@ -2,7 +2,6 @@
 <h3 align="center">MCA Student | Aspiring Software Developer</h3>
 
 - 🌱 Currently learning: `Full-Stack Development`, `Flutter & Firebase`, `CI/CD`, `Kubernetes` and `Java`
-- 🔭 Working on: A bookstore app in MERN Stack and CI/CD Pipeline
 - 💬 Ask me about: Mobile app development, Firebase, DevOps and Web development
 - 📫 How to reach me: [sujithakanagarathinam@gmail.com](mailto:sujithakanagarathinam@gmail.com)
 - ⚡ Fun fact: I love building real-world apps & solving logical puzzles!
