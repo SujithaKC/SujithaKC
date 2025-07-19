@@ -81,6 +81,6 @@
 <p align="center">
   <i>“In a world of code and color, I bloom.”</i> 🌷<br>
   <sub>— A dreamer building digital gardens, one pixel at a time ✨</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a80,100:ea80fc&height=100&section=footer&text=✧･ﾟ:+*+✧･ﾟ:+🌈+Thank+you+for+visiting!+*:･ﾟ✧+:*･ﾟ✧&fontColor=ffffff&fontSize=24"/>
 </p>
 
-<p align="center">✧･ﾟ: *✧･ﾟ:* 🌈 Thank you for visiting! *:･ﾟ✧*:･ﾟ✧</p>
